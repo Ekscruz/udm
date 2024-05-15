@@ -1,0 +1,10 @@
+.adminlogin-page header {
+    background-image: url(../../utils/images/loginbackground.jpg);
+   
+}
+
+.about-page .card:hover{
+    cursor:pointer;
+}
+
+
